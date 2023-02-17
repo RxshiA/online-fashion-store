@@ -27,6 +27,3 @@ The project was developed using the following languages:
 Here is a bar chart showing the distribution of code across these languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RxshiA&layout=compact)
-
-
-Note that these percentages are approximate and may vary depending on how the code is counted.
